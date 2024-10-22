@@ -1,0 +1,6 @@
+.slanted-line {
+    width: 100%;
+    height: 1px;
+    transform: rotate(-15deg); /* Adjust the angle for the slant */
+    background-color: black;
+}
